@@ -1,0 +1,24 @@
+{
+  "name": "resume-builder",
+  "version": "1.0.0",
+  "description": "秋招简历交互制作工具",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^5.0.0"
+  },
+  "dependencies": {
+    "html2pdf.js": "^0.10.1"
+  },
+  "keywords": ["resume", "builder", "pdf", "job", "recruitment"],
+  "author": "Tully",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Tully-L/demo-Resume_Builder-tool.git"
+  }
+}
